@@ -1,16 +1,30 @@
-# qgenie_mobile
+# QGenie
 
-A new Flutter project.
+QGenie is an application for quiz generation, it uses LLM models to generate simple questions, true-false questions, fill in the blank, match the sentences and MSQs.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+Use the package manager to install latest packages versions.
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Use the command below to run the flutter application.
+
+```bash
+flutter run
+```
+
+## Contributing
+
+Pull requests are welcome from QGenie's members only. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+not licensed yet.
